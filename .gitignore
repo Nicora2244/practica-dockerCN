@@ -1,0 +1,19 @@
+# Ignorar carpeta de Vagrant
+.vagrant/
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# MacOS / Windows
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
